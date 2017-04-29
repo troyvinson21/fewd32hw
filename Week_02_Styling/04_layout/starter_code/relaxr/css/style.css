@@ -1,0 +1,115 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-size:26px;
+	color: #f0efef;
+	line-height:1.4;
+	font-family: 'Open Sans', Helvetica, sans-serif;
+	font-weight: 300;
+
+}
+
+.wrapper {
+	width: 960px;
+	margin: 0 auto;
+}
+.hero .logo {
+	color: white;
+}
+.tagline {
+
+font-size: 48px;
+    text-align: center;
+    color: #fff;
+    margin: 120px 0 90px;
+    font-weight: 600;
+}
+
+div {
+
+	display: block;
+}
+h1{
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 40px;
+}
+.benefits h1{
+	color: #033048;
+}
+
+.hero {
+	min-height: 700px;
+	padding-top: 32px;
+	height: 700px;
+    background: url(../images/header_bg.jpg) top center #131e27;
+    background-size: cover;
+    padding-top: 32px;
+
+}
+.benefits {
+background: #f0efef;
+color:black;
+
+}
+
+.amanda {
+
+background: #033048;
+}
+
+.signup {
+	background:#f9e42e;
+}
+
+.amanda p {
+	font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    text-align: center;
+    width: 580px;
+    margin: 0 auto;
+}
+.author {
+	    font-weight: 600;
+    display: block;
+    font-style: normal;
+    text-align: center;
+}
+.ftr .logo {
+	color: #f9e42e;
+    margin-bottom: 68px;
+    text-align: center;
+}
+
+.logo {
+	font-size: 48px;
+}
+.btn {
+	text-align: center;
+	display: block;
+	
+}
+.btn-sign {
+	text-align: center;
+	display: block;
+}
+.ftr {
+	background: #121212;
+}
+.ftr .twitter {
+	display:block;
+	float: center;
+}
+
+a .ftr {
+	text-decoration: none;
+	color: white;
+	cursor: auto;
+}
+.copyright {
+	text-align: center;
+}
+
