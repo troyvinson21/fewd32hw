@@ -88,13 +88,26 @@ background: #033048;
 	font-size: 48px;
 }
 .btn {
-	text-align: center;
 	display: block;
-	
+	padding: 10px;
+	color: black;
+	background: yellow;
+	width: 200px;
+	text-align: center;
+	font-weight: 800;
+
 }
 .btn-sign {
-	text-align: center;
-	display: block;
+	    border-radius: 5px;
+    font-weight: 800;
+    padding: 12px 0;
+    width: 280px;
+    font-size: 28px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    background: #033048;
+
 }
 .ftr {
 	background: #121212;
@@ -104,7 +117,7 @@ background: #033048;
 	float: center;
 }
 
-a .ftr {
+a  {
 	text-decoration: none;
 	color: white;
 	cursor: auto;
@@ -112,4 +125,6 @@ a .ftr {
 .copyright {
 	text-align: center;
 }
-
+li {
+	display:list-item;
+}
